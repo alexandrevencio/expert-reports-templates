@@ -1,0 +1,2 @@
+# expert-reports-templates
+Este projeto visa criar modelos padrões de Laudos Periciais na área criminal utilizando HTML e CSS. Estes modelos deverão conter determinados locais ou pontos estratégicos que possam ser preenchidos automaticamente. Estes locais ou pontos deverão ser os  mais comumente alterados de laudo para outro laudo de um mesmo padrão. Utilizando-se, para tanto, banco de dados preestabelecidos que contenham as informações suficientes e necessárias a cada local ou ponto estratégico de alteração. as
